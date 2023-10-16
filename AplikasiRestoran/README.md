@@ -1,5 +1,6 @@
-Cara menjalankan : 
+###Cara menjalankan : 
 
+``` powershell
 PS C:\java\AplikasiRestoran> javac Main.java
 PS C:\java\AplikasiRestoran> java Main
 Daftar Menu Makanan:
@@ -18,3 +19,4 @@ Nasi Goreng - 15000 - 2 - 30000
 Total Biaya: 33000.0
 Pajak (10%): 3000.0000000000036
 Biaya Pelayanan: 20000
+```
