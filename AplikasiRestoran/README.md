@@ -1,4 +1,4 @@
-###Cara menjalankan : 
+## Cara menjalankan : 
 
 ``` powershell
 PS C:\java\AplikasiRestoran> javac Main.java
